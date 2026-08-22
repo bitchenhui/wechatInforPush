@@ -1,0 +1,37 @@
+AI 智能体工具霸榜
+
+GitHub 每日榜又来了,今天前三里有俩 AI 智能体相关的🔥OpenAI 的 Codex 一口气涨了 4000+ 星,直接把第二名甩开一截;短视频自动生成和谷歌足迹可视化也挺有意思,适合周末折腾一下～
+
+🥇 01｜openai/codex  +4.2k★
+运行于终端的轻量级 Rust 编程智能体
+
+🥈 02｜mattpocock/skills  +3.4k★
+面向工程实践的智能体技能集合
+
+🥉 03｜AprilNEA/OpenLogi  +1.4k★
+本地优先的罗技设备配置替代工具
+
+🔹 04｜harry0703/MoneyPrinterTurbo  +1.2k★
+通过 AI 工作流自动生成高清短视频
+
+🔹 05｜mahlernim/google-timeline-visualizer  +1.1k★
+将谷歌位置历史转换为年度旅行可视化
+
+🔹 06｜santifer/career-ops  +921★
+本地运行的 AI 求职搜索与申请管理工具
+
+🔹 07｜modular/modular  +913★
+由 MAX 与 Mojo 组成的 Modular 平台
+
+🔹 08｜obra/superpowers  +790★
+结合智能体技能与软件开发方法论的框架
+
+🔹 09｜diegosouzapw/OmniRoute  +768★
+连接多种模型与供应商的 AI 网关
+
+🔹 10｜DietrichGebert/ponytail  +756★
+引导 AI 智能体减少不必要代码的工程方法
+
+📊 数据来自 GitHub Trending 日榜，按近 24 小时新增 Star 排序，每天更新。
+
+#GitHub每日榜 #OpenAICodex #Rust #AI智能体 #短视频生成 #开源工具 #编程语言 #可视化
